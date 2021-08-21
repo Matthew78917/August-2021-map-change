@@ -1,0 +1,1 @@
+UPDATE `LYHMEut`.`ShopsUI_ItemShops` SET `SellPrice` = NULL WHERE `ShopsUI_ItemShops`.`ItemId` IN (121, 333, 1008, 1425, 1427, 1428, 1419, 1426, 1271, 1021, 1022);
